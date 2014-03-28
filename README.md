@@ -1,8 +1,8 @@
-#This is an python script, which gets movie information through douban API
+#This is a python script, which gets movie information through douban API
 #通过豆瓣API获取电影信息，利用Python2.7实现
 
 ##Author（作者）
-shuaijaing  
+shuaijiang<br/>
 Email：zhaoshuaijiang8@gmail.com
 
 ##what the input need（输入）
@@ -13,5 +13,5 @@ Email：zhaoshuaijiang8@gmail.com
 
 ##Attention（注意）
 由于豆瓣API的限制,每分钟只能访问10次。申请API Key，每分钟可以访问40词。
-关于API Key:"http://www.douban.com/service/apikey/"
+关于API Key:"http://www.douban.com/service/apikey/"<br/>
 请遵守这个限制，或者申请更多次数的访问
