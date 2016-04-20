@@ -3,7 +3,7 @@
 
 ##Author（作者）
 shuaijiang<br/>
-Email：zhaoshuaijiang8@gmail.com
+Email：zhaoshuaijiang8@gmail.com<br/>
 Date: 2014
 
 ##what the input need（输入）
