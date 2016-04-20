@@ -4,6 +4,7 @@
 ##Author（作者）
 shuaijiang<br/>
 Email：zhaoshuaijiang8@gmail.com
+Date: 2014
 
 ##what the input need（输入）
 在文件movie.id中放入电影ID
